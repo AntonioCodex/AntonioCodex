@@ -2,7 +2,7 @@
 
 <h1 align="center> Hi, I'm AntonioCodex</h1>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://w0.peakpx.com/wallpaper/715/353/HD-wallpaper-github-violet-logo-violet-brickwall-github-logo-social-networks-github-neon-logo-github.jpg" alt="" /></a> </p>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
